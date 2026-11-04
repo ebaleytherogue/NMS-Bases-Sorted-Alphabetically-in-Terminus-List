@@ -9,7 +9,7 @@ A naming scheme such as `G209-FOOTHOLD-PORTAL` makes the result especially usefu
 The resulting file then becomes THE FULL JSON FILE THAT ONE IMPORTS BACK INTO THE GAMESAVE EDITOR, REPLACING THE ORIGINAL EXPORT AND THUS REPLACING THE ENTIRE GAMESAVE FILE. This is fine because the only change to the file is the sort-order of the bases.
 
 ## Usefulness of this tool has diminished
-With Vectorcmdr's subsequent incorporation of base-list sorting in his excellent NMSE tool, my file becomes somewhat moot. His front-end is very cool, and he keeps up with NMS code-changes. I suggest using this tool more for the fun of analyzing the Python code than for sorting your bases. Use his tool instead.
+With Vectorcmdr's subsequent incorporation of base-list sorting in his excellent NMSE tool, my project became somewhat moot. His front-end is very cool, and he keeps up with NMS code-changes. I suggest using my tool more for the fun of analyzing the Python code than for sorting your bases. Use his tool instead.
 
 See: https://github.com/vectorcmdr/NMSE and https://nmse.vectorcmdr.xyz/ 
 
